@@ -1,0 +1,12 @@
+{
+  "전세": {
+    "rows": 26679,
+    "districts": 16,
+    "stored_aggregate_matches": true
+  },
+  "월세": {
+    "rows": 22793,
+    "districts": 16,
+    "stored_aggregate_matches": true
+  }
+}
